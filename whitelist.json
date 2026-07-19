@@ -1,9 +1,17 @@
 {
   "version": "1.0",
-  "updated_at": "2026-07-20T16:00:00Z",
-  "users": [7EDEF1B9-393C-4419-841B-E784536B98F3],
+  "updated_at": "2026-07-20T17:30:00Z",
+  "users": [
+    {
+      "device_id": "7EDEF1B9-393C-4419-841B-E784536B98F3",
+      "email": "olivier.jobin@hotmail.fr",
+      "name": "Olivier Jobin",
+      "granted_at": "2026-07-20",
+      "reason": "Developer - Full access"
+    }
+  ],
   "_metadata": {
-    "total_users": 0,
+    "total_users": 1,
     "note": "Device IDs are retrieved via AppStore.deviceVerificationID"
   }
 }
