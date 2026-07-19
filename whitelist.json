@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "updated_at": "2026-07-20T12:00:00Z",
+  "users": [
+    {
+      "device_id": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
+      "email": "user@example.com",
+      "name": "Beta Tester 1",
+      "granted_at": "2026-07-15",
+      "reason": "VIP Access"
+    }
+  ],
+  "_metadata": {
+    "total_users": 1,
+    "note": "Device IDs are retrieved via AppStore.deviceVerificationID"
+  }
+}
