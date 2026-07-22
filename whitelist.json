@@ -1,7 +1,6 @@
-
 {
   "version": "1.0",
-  "updated_at": "2026-07-20T17:30:00Z",
+  "updated_at": "2026-07-22T10:00:00Z",
   "users": [
     {
       "device_id": "9D77869E-A873-483C-A528-145D6AACA6F6",
@@ -9,15 +8,17 @@
       "name": "Olivier Jobin",
       "granted_at": "2026-07-20",
       "reason": "Developer - Full access"
+    },
+    {
+      "device_id": "adf098e4-1d73-4a15-bb2d-4e3c72acb8fc",
+      "email": "zmoudres@hotmail.com",
+      "name": "Zaki Moudres",
+      "granted_at": "2026-07-22",
+      "reason": "Friend"
     }
   ],
   "_metadata": {
-    "total_users": 1,
+    "total_users": 2,
     "note": "Device IDs are retrieved via AppStore.deviceVerificationID"
   }
 }
-
-
-
-
-
