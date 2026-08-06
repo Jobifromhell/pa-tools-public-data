@@ -3,13 +3,6 @@
   "updated_at": "2026-07-22T10:00:00Z",
   "users": [
     {
-      "device_id": "7EDEF1B9-393C-4419-841B-E784536B98F3",
-      "email": "olivier.jobin@hotmail.fr",
-      "name": "Olivier Jobin",
-      "granted_at": "2026-07-20",
-      "reason": "Developer - Full access"
-    },
-    {
       "device_id": "adf098e4-1d73-4a15-bb2d-4e3c72acb8fc",
       "email": "zmoudres@hotmail.com",
       "name": "Zaki Moudres",
