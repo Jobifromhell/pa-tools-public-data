@@ -1,9 +1,23 @@
-Version 3.0.8 - Cable Analyzer Update
+Version 3.0.8 — What's New
+
+As a thank you gift for those who purchase the unlock, the app is now available in your language, only for paid users.
 
 New Features:
 • Cable Analyzer added
-Understand the 3 key factor in cables : cable length, wire gauge and capacitance
+  Understand the 3 key factors in cables: cable length, wire gauge (AWG), and capacitance
+
+Language Support:
+• Full translation now available in:
+  🇫🇷 French (Français)
+  🇩🇪 German (Deutsch)
+  🇪🇸 Spanish (Español)
+  🇮🇹 Italian (Italiano)
+  🇳🇱 Dutch (Nederlands)
+  🇨🇳 Chinese Simplified (简体中文)
+  🇷🇺 Russian (Русский)
+  🇪🇪 Estonian (Eesti)
+
 Bug Fixes:
 • Various bug fixes and improvements
 
-Update now to access the new Cable Analyzer tool!
+Update now to access the new Cable Analyzer tool and language translation!
