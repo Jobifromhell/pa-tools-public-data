@@ -1,0 +1,9 @@
+Version 3.0.8 - Cable Analyzer Update
+
+New Features:
+• Cable Analyzer added
+Understand the 3 key factor in cables : cable length, wire gauge and capacitance
+Bug Fixes:
+• Various bug fixes and improvements
+
+Update now to access the new Cable Analyzer tool!
