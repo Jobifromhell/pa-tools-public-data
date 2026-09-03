@@ -1,5 +1,8 @@
 {
   "latestVersion": "3.0.8",
-  "appStoreURL": "https://apps.apple.com/app/id6475635649",
-  "message": "PA TOOLS is up to date!"
+  "appStoreURL": "itms-apps://itunes.apple.com/app/id6475635649",
+  "releaseNotesURL": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-public-data/main/release-notes.txt",
+  "message": "Major update available !",
+  "forceUpdate": true
 }
+
