@@ -1,6 +1,6 @@
 Version 3.0.8 — What's New
 
-As a thank you gift for those who purchase the unlock, the app is now available in your language, only for paid users.
+As a thank you gift for those who purchased the unlock, the app is now available in your language.
 
 New Features:
 • Cable Analyzer added
@@ -13,9 +13,7 @@ Language Support:
   🇪🇸 Spanish (Español)
   🇮🇹 Italian (Italiano)
   🇳🇱 Dutch (Nederlands)
-  🇨🇳 Chinese Simplified (简体中文)
-  🇷🇺 Russian (Русский)
-  🇪🇪 Estonian (Eesti)
+
 
 Bug Fixes:
 • Various bug fixes and improvements
