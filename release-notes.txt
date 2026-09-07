@@ -1,7 +1,5 @@
 Version 3.0.8 — What's New
 
-As a thank you gift for those who purchased the unlock, the app is now available in your language.
-
 New Features:
 • Cable Analyzer added
   Understand the 3 key factors in cables: cable length, wire gauge (AWG), and capacitance
