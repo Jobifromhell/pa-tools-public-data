@@ -22,7 +22,15 @@
       "name": "aleks.kravets",
       "granted_at": "2026-07-22",
       "reason": "Beta tester"
+    },
+    {
+      "device_id": "D540BF61-43D5-42E5-8A2C-0976DA407DD6",
+      "email": "Lukas.kientzl@icloud.com",
+      "name": "Lukas.kientzls",
+      "granted_at": "2026-09-15",
+      "reason": "Bug Finder"
     }
+    
   ],
   "_metadata": {
     "total_users": 3,
