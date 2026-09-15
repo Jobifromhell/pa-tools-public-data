@@ -29,8 +29,15 @@
       "name": "Lukas.kientzls",
       "granted_at": "2026-09-15",
       "reason": "Bug Finder"
+    },
+     {
+      "device_id": "4D28BB43-17BA-4EDD-9227-76CBE017ED45",
+      "email": "gezaszakacs19@gmail.com",
+      "name": "Géza Szakács",
+      "granted_at": "2026-09-15",
+      "reason": "Bug Finder"
     }
-    
+   
   ],
   "_metadata": {
     "total_users": 3,
