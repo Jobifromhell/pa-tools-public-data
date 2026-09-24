@@ -1,19 +1,10 @@
-Version 3.0.8 — What's New
+Version 3.0.9 — What's New
 
-New Features:
-• Cable Analyzer added
-  Understand the 3 key factors in cables: cable length, wire gauge (AWG), and capacitance
-
-Language Support:
-• Full translation now available in:
-  🇫🇷 French (Français)
-  🇩🇪 German (Deutsch)
-  🇪🇸 Spanish (Español)
-  🇮🇹 Italian (Italiano)
-  🇳🇱 Dutch (Nederlands)
+New Languages Added\nKazakh and Hungarian join PA TOOLS — the app is now fully available in 12 languages.\n\n✅ Complete App Translation\nEvery screen, module and setting has been fully translated into all supported languages.\n\n🐛 Bug Fixes:\n• Fixed incorrect phase values on a few presets\n• Various other bug fixes and improvements\n\nUpdate now to enjoy PA TOOLS in your language!\n\n💙 Your support helps us continue improving PA TOOLS.",
 
 
 Bug Fixes:
 • Various bug fixes and improvements
 
 Update now to access the new Cable Analyzer tool and language translation!
+
