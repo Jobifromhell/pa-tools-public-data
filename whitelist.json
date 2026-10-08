@@ -47,7 +47,7 @@
    
   ],
   "_metadata": {
-    "total_users": 3,
+    "total_users": 6,
     "note": "Device IDs are retrieved via AppStore.deviceVerificationID"
   }
 }
